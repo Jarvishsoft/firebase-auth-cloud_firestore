@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "291577605074",
+    "project_id": "praktikum-09-firebase",
+    "storage_bucket": "praktikum-09-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291577605074:android:a75dcac836b26148f0f60b",
+        "android_client_info": {
+          "package_name": "com.example.praktikum_09_fazaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291577605074-lkdioscvt5ufruh2f8rkknnlfemeb3h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCepZCXgiJNeb7V5t8sPO4-6-Pj1f2KBrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291577605074-lkdioscvt5ufruh2f8rkknnlfemeb3h0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291577605074-76k5ro5i2601hn1ovp83132ik7792bf0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.praktikum09Fazaa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
